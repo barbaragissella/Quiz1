@@ -88,3 +88,204 @@ p {
     background-color: #9CEAE3;
 }
 
+h1 {
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    color: #00C2CB;
+}
+
+h2 {
+    font-family: 'Oswald', sans-serif;
+    color: #9CEAE3;
+}
+
+h3 {
+    font-family: 'Oswald', sans-serif;
+}
+
+#contact {
+    background-color: #9CEAE3;
+    padding-bottom: 0;
+}
+
+#contact2 {
+    color: #00C2CB;
+    padding-top: 30px;
+    
+    
+
+}
+
+.redes{
+    width: 50px; 
+    padding: 10px
+}
+
+#yo {
+    width: 300px;
+}
+
+#titulito1 {
+    background-color: #9CEAE3;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: -4px;
+}
+
+#aboutme {
+    margin: 30px;
+    margin-bottom: -25rem;
+    
+}
+#aboutme2 {
+    position: relative;
+    left: 45rem;
+    top: -25rem;
+    width:50%;
+}
+
+#aboutme3 {
+    margin-left: 20rem;
+}
+
+#aboutme4 {
+    text-align: center;
+}
+
+.titulito2 {
+    background-color: #9CEAE3;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 100px;
+}
+
+.field {
+    border-style: none;
+}
+
+#networks{
+    text-align: center; 
+    width: 100%;
+    margin-top: -12rem;
+}
+
+.field label {
+    font-family: 'Open Sans Condensed', sans-serif;
+    width: 400px;
+    margin-right: 8px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    
+}
+
+.field{
+    width: 250px;
+    margin-bottom: 10px;
+}
+.field input, textarea{
+    float: right;
+    margin-right: 10px;
+    width: 145px;
+    
+}
+
+button {
+    background-color: #00C2CB;
+    text-align: center;
+    border: none;
+    color: white;
+    padding: 12px 26px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin-top: 30px;
+    margin-left: 70px;
+    border-radius: 8px;
+    
+}
+
+#form {
+    margin-left: 200px ;
+    margin-top: 80px;
+    border: 3px solid #00C2CB;
+    padding: 30px;
+    margin-right: 930px;
+    border-radius: 25px;
+}
+
+#logo2 {
+    margin-left: 800px;
+    display: flex;
+}
+
+#loguito2 {
+    width: 300px;
+    margin-top: 0;
+    position: relative;
+    top: -18rem;
+}
+
+
+
+#infofinal {
+    text-align: center;
+}
+
+#numero a:visited{
+    text-decoration: none;
+    color: black;
+}
+
+#numero a:link {
+    text-decoration: none;
+    color: black;
+}
+
+#proyecto {
+    width: 50%;
+}
+
+#grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    
+}
+
+.exp {
+    text-align: center;
+    
+}
+
+.cargando {
+    position: relative; 
+    width: 200px;
+    border: 1px solid #00C2CB;
+    padding: 2px;
+    margin-bottom: 1rem;
+
+}
+.cargando .porcentaje {
+    display: block;
+    position: relative;
+    background: #00C2CB;
+    text-align: center;
+    color: white;
+    height: 2em;
+    line-height: 2em;
+    padding-bottom: 1rem;
+}
+.cargando .porcentaje span {
+    position: absolute; left: 1em;
+}
+
+
+
+
+#skills {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    position: relative;
+    left: 15rem;
+    top: 1rem;
+    width:75%;
+}
