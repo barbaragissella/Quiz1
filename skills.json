@@ -1,0 +1,12 @@
+{"Skills": [
+    {"Habilidad": "Python", "Destreza": 60},
+    {"Habilidad": "Java", "Destreza": 40},
+    {"Habilidad": "JavaScript", "Destreza": 40},
+    {"Habilidad": "HTML", "Destreza": 70},
+    {"Habilidad": "CSS", "Destreza": 70},
+    {"Habilidad": "Office", "Destreza": 70},
+    {"Habilidad": "Lightroom", "Destreza": 50},
+    {"Habilidad": "Photoshop", "Destreza": 30}
+
+]
+}
